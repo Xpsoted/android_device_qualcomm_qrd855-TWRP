@@ -1,0 +1,1 @@
+# android_device_qualcomm_qrd855-TWRP
