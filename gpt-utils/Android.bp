@@ -1,5 +1,0 @@
-cc_library {
-    name: "libgptutils",
-    defaults: ["libgptutils_defaults"],
-    vendor_available: true,
-}
